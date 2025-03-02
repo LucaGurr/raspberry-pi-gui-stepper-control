@@ -62,7 +62,3 @@ raspberry-pi-gui
 ## Compatibility
 
 This project is designed to work on both Windows and Linux platforms. The platform-specific implementations are handled in the `src/platform` directory.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
