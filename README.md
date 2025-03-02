@@ -28,7 +28,7 @@ raspberry-pi-gui
 1. **Clone the repository**:
    ```
    git clone <repository-url>
-   cd raspberry-pi-gui
+   cd raspberry-pi-gui-stepper-control-master
    ```
 
 2. **Install dependencies**:
